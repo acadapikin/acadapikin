@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @acadapikin
-- 👀 I’m interested in content writing in the areas of brand management, customer acqusition and nurturing, social media management
-- 🌱 I’m currently learning Search Engine Optimization (SEO), Keyword research, and copywriting
-- 💞️ I’m looking to collaborate on content writing
-- 📫 How to reach me on sdney86@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: You can achieve it if you keep on trying
+- 👋 Hi, I’m Sidney Ogodo and i am freelenace content writer.
+- 👀 I assist clients in crafting meaningful and relevant content that resonates with their customers. My professional background is in brand management, secretarial/administrative comptentence, and academic research and writing.
+- 🌱 I bring to my work a unique blend of creativity and problem-solving skills, secretarial/administraive expertise, and rigour and discpline of academic research.
+- 💞️ I place a premium on delivering quality work promptly and fostering a warm and mutually beneficial realtionbship with my clients to serve their needs effectively.
+- 📫 I am currently enrolled in courses on Search Engine Optimization, copywriting and keyword research in order to add more value to my clients.
+- 😄 I can be reached on sdney86@gmail.com
+- ⚡ Fun fact: You can achieve it if you persist and persevere.
 
 <!---
-acadapikin/acadapikin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+acadapikin/acadapikin is a ✨ special ✨ repository because its `README.md` (this file) appears on your G
 --->
